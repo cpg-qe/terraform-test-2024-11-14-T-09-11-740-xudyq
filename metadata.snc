@@ -1,0 +1,7 @@
+"Metadata": {
+    "SNC::Parameter::Metadata": {
+        "aws_zone": {
+            "datasource": "ServiceNow::Pools:: AvailabilityZonePool.getByLDC"
+        }
+    }
+}
